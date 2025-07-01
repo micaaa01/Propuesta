@@ -2,6 +2,7 @@ import csv
 import sys
 import os
 #Validador y limpiador
+#Un pequeño ejemplo de código podría ser el siguiente
 INPUT_PATH = "data/sample.csv"
 OUTPUT_PATH = "cleaned_data/data_clean.csv"
 REPORT_PATH = "report/reporte_validacion.txt"
