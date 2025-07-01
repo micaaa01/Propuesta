@@ -17,6 +17,7 @@ Este proyecto permite validar y limpiar automáticamente archivos CSV, eliminand
 bash run_cleaner.sh
 ```
 ### Estructura
+```bash
 csv-cleaner/
 ├── data/
 │   └── sample.csv
@@ -28,3 +29,4 @@ csv-cleaner/
 ├── README.md
 └── report/
     └── reporte_validacion.txt
+```
